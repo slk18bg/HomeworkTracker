@@ -1,2 +1,3 @@
-# CIS4930-HomeworkTracker
-simple C# project to practice multiple inheritance
+# HomeworkTracker
+
+Simple C# project to practice multiple inheritance for CIS4930
